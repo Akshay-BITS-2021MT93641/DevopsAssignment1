@@ -4,4 +4,4 @@ Comment 1 for testing
 
 Comment 2 for testing conflicts
 
-Comment 3 for testing force push and reset by collab
+Comment 3 for testing force push and reset

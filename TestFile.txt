@@ -2,4 +2,4 @@ Test file for devops assignment 1
 
 Comment 1 for testing
 
-Comment 2 for testing
+Comment 2 for testing conflicts
